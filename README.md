@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Kacper
+- 👀 I’m interested in technology, programming languages
+- 🌱 I’m currently learning C/C++/C#
