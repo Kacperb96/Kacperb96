@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Kacper
-- 👀 I’m interested in technology, programming languages
-- 🌱 I’m currently learning C/C++/C#
+- 👋 Hi, I’m Kacper. I'm mechatronics engineer.
+- 👀 I’m interested in technology, programming languages, sport and music.
+- 🌱 I’m currently learning C/C++/C#/Python
